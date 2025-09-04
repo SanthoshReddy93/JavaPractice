@@ -6,7 +6,7 @@ public class Class {
 	
 		
 		//class is blue print of methods and represent of objects and variables 
-		
+		 
 
 	}
 

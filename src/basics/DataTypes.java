@@ -33,5 +33,5 @@ public class DataTypes {
 	System.out.println(Byte.MIN_VALUE);
 	System.out.println(Integer.MAX_VALUE);
 	}
-
+ 
 }
