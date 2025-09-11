@@ -40,6 +40,9 @@ public class Loopingstatements {
 		}
 		while(i<0);
 		
+	//}
+	//for(int value :arr) {      //foreach loop
+		//System.out.println(value);
 	}
-
-}
+	
+	}
